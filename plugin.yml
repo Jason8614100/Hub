@@ -1,0 +1,14 @@
+name: Hub
+author: jason861410
+main: Hub\main
+api: 4.0.0
+version: 1.0
+
+commands:
+  hub:
+    description: tp to lobby
+    permission: hub.cmd
+
+permissions:
+  hub.cmd:
+    default: true
